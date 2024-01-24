@@ -1,0 +1,210 @@
+/* default css  */
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+    
+}
+/* start Hero  */
+.hero-contain{
+background: url(resources/Banner\ Image.png);
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+padding: 180px 0px;
+text-align: center;
+}
+.hero-contain h3{
+    color: white;
+    font-size: 24px;
+}
+.hero-contain h1{
+    color: white;
+    font-size: 50px;
+}
+
+/* Start Offer  */
+.offer-contain{
+    padding: 80px 0px;
+    text-align: center;
+}
+.offer-contain h1 {
+    color: red;
+    font-size: 50px;
+    padding-bottom: 15px;
+}
+
+.offer-contain h4 {
+    color: red;
+    font-size: 16px;
+    padding-bottom: 15px;
+}
+
+.offer-contain h2 {
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+.offer-contain img {
+    width: 500px;
+}
+
+/* start welcome  */
+#welcome{
+    margin-bottom:80px ;
+}
+.welcome-contain{
+    border-radius: 10px;
+    padding: 110px 90px;
+    background-image: url(resources/Vectorrr.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.welcome-contain h1 {
+    color: white;
+    font-size: 55px;
+}
+
+.welcome-contain p {
+    color: white;
+    font-size: 16px;
+    padding: 20px 0px;
+}
+
+button {
+    border: navajowhite;
+    padding: 10px 30px;
+    background: aqua;
+    border-radius: 5px;
+}
+button a {
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+}
+/* even start  */
+#event{
+    padding: 80px 0px;
+}
+.even-contain{
+    padding: 90px 0px;
+    text-align: center;
+    background-color: linen ;
+}
+.even-contain h3 {
+    padding: 13px 0px;
+}
+.comming-cointain {
+    display: flex;
+    align-items: center;
+}
+.comming-cointain {
+    display: flex;
+    align-items: center;
+}
+
+.comming-left h4 {
+    color: red;
+    font-size: 18px;
+}
+
+.comming-left h2 {
+    font-size: 45px;
+    padding: 15px 0px;
+}
+
+.comming-left {
+    padding: 0px 40px;
+    width: 370px;
+}
+.comming-center {
+    padding: 0px 40px;
+    width: 370px;
+}
+.comming-right {
+    padding: 0px 40px;
+    width: 370px;
+}
+.comming-center img {
+    border: 5px solid #ff0202;
+    border-radius: 50%;
+    padding: 10px;
+}
+/* Start hollydat  */
+#hollyday{
+    padding: 80px 0px;
+}
+.hollay-contain{
+    text-align: center;
+}
+.hollay-contain h4{
+    color: black;
+    font-size: 16px;
+}
+.hollay-contain h1{
+    font-size: 50px;
+}
+.holly-img{
+    padding: 20px 0px;
+    text-align: center;
+}
+
+/* start protfolio  */
+.hollay-contain h4{
+    color: black;
+    font-size: 16px;
+}
+.hollay-contain h1{
+    font-size: 50px;
+}
+.protfolio-img img {
+    padding: 10px;
+    width: 355px;
+}
+/* start sub  */
+.sub-info{
+    padding: 60px 0px;
+    background: #FFF2F2;
+    text-align: center;
+}
+.sub-info img{
+    width: 90px;
+}
+.sub-info h1{
+    font-size: 45px;
+}
+
+.sub-info input {
+    padding: 10px;
+    border-radius: 15px 3px 0px 15px;
+}
+
+.sub-info button {
+    padding: 12px;
+}
+#big{
+    padding: 90px 0px;
+    text-align: center;
+    background: #070211; ;
+    width: 1520px;
+height: 300px;
+
+ 
+
+
+
+}
+.left-hero h2{
+    text-align: left;
+    color: azure;
+
+}
+.left{
+    text-align: left;
+    color: azure;
+}
+.heder-tex{text-align: right;}
